@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>
+Alyssa Loffredo
+Creative Advertising Student</h1>
+
+
+
+<h2>
+<b>Contact</b></h2>
+<p>
+(914)-703-5561
+loffredoalyssa@gmail.com
+linkedin.com/in/alyssa-loffredo</p>
+
+<h3><b>Education</b></h3>
+<p>
+S.I. Newhouse School of Public Communications
+Syracuse University, May 2021
+Bachelor of Science: Advertising 
+GPA: 3.5, Dean's List<p2>
+
+<h4><b>Skills</b></h4>
+<ul>
+    <li>Microsoft Office Suite</li>
+    <li>Powerpoint, Word, Excel</li>
+    <li>Adobe Creative Cloud</li>
+    <li>Premier, Photoshop, InDesign</li>
+    <li>Social Media</li>
+    <li>Instagram, Twitter, YouTube</li>
+    <li>Digital Paid Promotion</li>
+    <li>Cision Media Search</li>
+    <li>Google My Business</li>
+    <li>Influencer Research</li>
+</ul>
+
+
+<b>Growth Marketing Intern</b>, Numerade | May - August 2020
+<p>
+<ul>
+<li>Developed social media presence across Twitter, Instagram, Facebook & Linkedin from scratch, organically gaining 2,500+ followers</li>
+<li>Curated and organized over 1,000 press contacts for PR Master Media List and 1,000 Influencers for Influencer Outreach</li>
+<li>Gained�free media coverage with outlets including The Chicago Tribune, MSN, and Working Mother</li>
+<li>Designed graphics for social media & website rebranding</li>
+</p>
+<b>Marketing Intern</b>, Eataly U.S.A. | June - August 2019
+<p><ul>
+<li>Created content schedules, captions and stories for the NYC Instagram accounts with a total following of 215,000 followers</li>
+<li>Provided live coverage of company events via Instagram</li>
+<li>Organized over 1,000 press contacts for PR Master Media List</li>
+<li>Developed weekly Digital Advertising Reports for all U.S.A. store locations based on paid-promotion budgets and target audience reach</li>
+
+<b>Billboard Designer</b>, Project Yellow Light | June 2019
+<p><ul>
+<li>Billboard design and copy selected as winner among over 1,500 submissions for nationwide competition aimed at reducing distracted driving among teenagers</li>
+<li>Currently on display in Time Square and across NY, NJ and CA highways courtesy of Clear Channel Outdoor</li>
+<li>View billboard: 'Be Likeable - 2019 College Winner <a href="http://projectyellowlight.adcouncilkit.org/psas/ooh/" target="
+_blank"> </a> </li>
+<b>Social Media Director</b>, University Union | May 2018 - Present
+<p><ul>
+<li>Lead a team of four who digitally promote Syracuse University's official entertainment events to campus community</li>
+<li>Manage a content schedule for Instagram Facebook, Twitter, and Snapchat with a combined 20,000+ followers</li>
+<li>Spearhead paid digital promotion on Twitter and Facebook, with an average budget of $600 per event</li>
+<li>Collaborate with the Marketing and PR boards to execute promotional campaigns for artists such as Khalid and Playboi Carti</li>
+</ul>
+
+
+
+
+
+
